@@ -1,14 +1,19 @@
 *{
-    text-align: center;
-    vertical-align: middle;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 3px;
     border-radius: 5px;
 }
-.TextColor{
+
+.hidden {
+    visibility: hidden;
+}
+
+
+#Tekst-kleur{
     color: black;
     font-size: 20px;
 }
+
 #home{
     width: 300px;
     height:75px;
